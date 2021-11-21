@@ -1,0 +1,10 @@
+Tim 80000
+Nik 100000
+Dasha 50000
+Sasha 20000
+Max 15000
+Andrey 10000
+Nikolay 60000
+Alina 70000
+Ilya 10000
+Danyl 40000
